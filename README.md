@@ -1,3 +1,3 @@
-# Pepsi UI Library
+# Pepsi UI Library (not mine)
 
-Pepsi UI Library for roblox | With documentation (look below)
+Pepsi UI Library for Roblox | With documentation (look below)

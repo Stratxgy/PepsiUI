@@ -59,7 +59,7 @@ Print("Example Print")
 })
 ```
 
-## Create a Toggle
+## Create a Slider
 ```lua
 ExampleSection:AddSlider({
 Name = "Example",
